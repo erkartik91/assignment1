@@ -1,7 +1,7 @@
 # Assignment1
 You are hired as a web developer for UBC bookstore to develop a website to sell their products online. As a part of your job you are going to build an online store where you can list different items that can be sold online. Students can register on the website, browse all the available products, check out availability, read product description and purchase any of the listed items.
 
-To help you get started, you will need to structure your project into the following way for the assignments. Submission instructions are given in the end of this document.
+To help you get started, you will need to structure your project into the following way for the assignments. **Submission instructions are given in the end of this document.**
 
 * Root folder <all html files go in this folder>
   * css
@@ -12,7 +12,7 @@ To help you get started, you will need to structure your project into the follow
     * (all images go in this folder)
   * index.html (this should be the entry point to your website)
   
-**As a part of this assignment, you will need to build the homepage for the online store. In the screenshot given below, we provide you with the wireframe of how the web page should look. You are free to choose colours and fonts of your own choice.**
+As a part of this assignment, you will need to build the homepage for the online store. In the screenshot **layout.png**, we provide you with the wireframe of how the web page should look. You are free to choose colours and fonts of your own choice.
 
 **Marking**: There are 3 tasks for this assignment:
 * Task 1: 2 Points
@@ -34,6 +34,7 @@ To help you get started, you will need to structure your project into the follow
       * product 1 (class=product)
       * product 2 (class=product)
       * product n (class=product)
+      * **You can find all the product images, with the product name and price (in the image name) that you will be displaying on the home page.**
   * Footer (id=footer)
 * Create a CSS stylesheet to add relevant styles that would help you design the layout for the web page. A few things to keep in mind:
   * The width of the content within the website should be 1000px.
