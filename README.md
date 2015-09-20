@@ -51,9 +51,11 @@ As a part of this assignment, you will need to build the homepage for the online
 <script src="http://ece.ubc.ca/~kbajaj/cpen400a/jquery.js" type="text/javascript"></script>
 <script src="http://ece.ubc.ca/~kbajaj/cpen400a/test1.js" type="text/javascript"></script>
 ```
-You will see  a Red button on the top-right corner of your web page. Clicking on that will let you test your code.
+You will see a Red button on the top-right corner of your web page. Clicking on that will let you test your code.
 
 Below you can find the list of products, along with the images and their price that you will be displaying within your website. You will need to save each of these images into the image folder for use.
+
+Note that you do not need to setup any server to host the webpage you are creating. Simple open the html pape with any browser, the webpage will be displayed.
 
 
 **Submission instructions:**
